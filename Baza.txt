@@ -1,0 +1,24 @@
+USE [master]
+GO
+
+CREATE DATABASE [ProdavnicaBaza]
+GO
+
+USE [ProdavnicaBaza]
+GO
+
+CREATE TABLE [dbo].[Prodavnica](
+	[ID] [int] NOT NULL identity(1,1) PRIMARY KEY,
+	[Adresa] [nvarchar](60) NOT NULL,
+	[Mesto] [nvarchar](60) NOT NULL,
+	[Naziv] [nvarchar](60) NOT NULL,
+	[Sifra] [nvarchar](60) NOT NULL)
+GO
+
+CREATE TABLE [dbo].[Zaposleni](
+	[ID] [int] NOT NULL identity(1,1) PRIMARY KEY,
+	[Ime] [nvarchar](60) NOT NULL,
+	[Prezime] [nvarchar](60) NOT NULL,
+	[GodRodj] [int] NOT NULL,
+	[IDProdavnice] [int] FOREIGN KEY REFERENCES [dbo].[Prodavnica]([ID]) NOT NULL)
+GO
