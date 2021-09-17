@@ -1,0 +1,83 @@
+C:\Users\Laptop\Desktop\Comi seminarski\Comi seminarski\Kudovi\bin\Debug\ProdavnicaPica.exe.config
+C:\Users\Laptop\Desktop\Comi seminarski\Comi seminarski\Kudovi\bin\Debug\ProdavnicaPica.exe
+C:\Users\Laptop\Desktop\Comi seminarski\Comi seminarski\Kudovi\bin\Debug\ProdavnicaPica.pdb
+C:\Users\Laptop\Desktop\Comi seminarski\Comi seminarski\Kudovi\obj\Debug\Kudovi.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\Comi seminarski\Comi seminarski\Kudovi\obj\Debug\MainWindow.g.cs
+C:\Users\Laptop\Desktop\Comi seminarski\Comi seminarski\Kudovi\obj\Debug\Kud.g.cs
+C:\Users\Laptop\Desktop\Comi seminarski\Comi seminarski\Kudovi\obj\Debug\App.g.cs
+C:\Users\Laptop\Desktop\Comi seminarski\Comi seminarski\Kudovi\obj\Debug\ProdavnicaPica_MarkupCompile.cache
+C:\Users\Laptop\Desktop\Comi seminarski\Comi seminarski\Kudovi\obj\Debug\ProdavnicaPica_MarkupCompile.lref
+C:\Users\Laptop\Desktop\Comi seminarski\Comi seminarski\Kudovi\obj\Debug\MainWindow.baml
+C:\Users\Laptop\Desktop\Comi seminarski\Comi seminarski\Kudovi\obj\Debug\Kud.baml
+C:\Users\Laptop\Desktop\Comi seminarski\Comi seminarski\Kudovi\obj\Debug\ProdavnicaPica.g.resources
+C:\Users\Laptop\Desktop\Comi seminarski\Comi seminarski\Kudovi\obj\Debug\ProdavnicaPica.Properties.Resources.resources
+C:\Users\Laptop\Desktop\Comi seminarski\Comi seminarski\Kudovi\obj\Debug\Kudovi.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\Comi seminarski\Comi seminarski\Kudovi\obj\Debug\Kudovi.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Comi seminarski\Comi seminarski\Kudovi\obj\Debug\ProdavnicaPica.exe
+C:\Users\Laptop\Desktop\Comi seminarski\Comi seminarski\Kudovi\obj\Debug\ProdavnicaPica.pdb
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\obj\Debug\Kudovi.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\obj\Debug\MainWindow.g.cs
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\obj\Debug\Kud.g.cs
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\obj\Debug\App.g.cs
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\obj\Debug\ProdavnicaPica_MarkupCompile.cache
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\obj\Debug\ProdavnicaPica_MarkupCompile.lref
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\obj\Debug\ProdavnicaPica.exe
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\obj\Debug\ProdavnicaPica.pdb
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\bin\Debug\ProdavnicaPica.exe.config
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\bin\Debug\ProdavnicaPica.exe
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\bin\Debug\ProdavnicaPica.pdb
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\obj\Debug\MainWindow.baml
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\obj\Debug\Kud.baml
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\obj\Debug\ProdavnicaPica.g.resources
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\obj\Debug\ProdavnicaPica.Properties.Resources.resources
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\obj\Debug\Kudovi.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\obj\Debug\Kudovi.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\obj\Debug\Igrac.g.cs
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\Programski prevodioci\Programski prevodioci\seminarski\Kudovi\obj\Debug\Igrac.baml
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\obj\Debug\Kudovi.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\obj\Debug\MainWindow.g.cs
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\obj\Debug\Kud.g.cs
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\obj\Debug\Igrac.g.cs
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\obj\Debug\App.g.cs
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\obj\Debug\ProdavnicaPica_MarkupCompile.cache
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\obj\Debug\ProdavnicaPica_MarkupCompile.lref
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\obj\Debug\ProdavnicaPica.exe
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\obj\Debug\ProdavnicaPica.pdb
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\bin\Debug\ProdavnicaPica.exe.config
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\bin\Debug\ProdavnicaPica.exe
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\bin\Debug\ProdavnicaPica.pdb
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\bin\Debug\KlasePodataka.dll
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\bin\Debug\KlasePodataka.pdb
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\obj\Debug\MainWindow.baml
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\obj\Debug\Kud.baml
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\obj\Debug\Igrac.baml
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\obj\Debug\ProdavnicaPica.g.resources
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\obj\Debug\ProdavnicaPica.Properties.Resources.resources
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\obj\Debug\Kudovi.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\obj\Debug\Kudovi.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\FAX\Treca godina\Drugi semestar\razvoj softvera ptorneog koda\seminarski\Kudovi\obj\Debug\Kudovi.csproj.CopyComplete
+C:\Users\stfri\Downloads\seminarski\Kudovi\bin\Debug\ProdavnicaPica.exe.config
+C:\Users\stfri\Downloads\seminarski\Kudovi\bin\Debug\ProdavnicaPica.exe
+C:\Users\stfri\Downloads\seminarski\Kudovi\bin\Debug\ProdavnicaPica.pdb
+C:\Users\stfri\Downloads\seminarski\Kudovi\bin\Debug\KlasePodataka.dll
+C:\Users\stfri\Downloads\seminarski\Kudovi\bin\Debug\System.Data.SqlClient.dll
+C:\Users\stfri\Downloads\seminarski\Kudovi\bin\Debug\KlasePodataka.pdb
+C:\Users\stfri\Downloads\seminarski\Kudovi\bin\Debug\System.Data.SqlClient.xml
+C:\Users\stfri\Downloads\seminarski\Kudovi\obj\Debug\Kudovi.csproj.AssemblyReference.cache
+C:\Users\stfri\Downloads\seminarski\Kudovi\obj\Debug\MainWindow.g.cs
+C:\Users\stfri\Downloads\seminarski\Kudovi\obj\Debug\App.g.cs
+C:\Users\stfri\Downloads\seminarski\Kudovi\obj\Debug\ProdavnicaPica_MarkupCompile.cache
+C:\Users\stfri\Downloads\seminarski\Kudovi\obj\Debug\ProdavnicaPica_MarkupCompile.lref
+C:\Users\stfri\Downloads\seminarski\Kudovi\obj\Debug\MainWindow.baml
+C:\Users\stfri\Downloads\seminarski\Kudovi\obj\Debug\ProdavnicaPica.g.resources
+C:\Users\stfri\Downloads\seminarski\Kudovi\obj\Debug\ProdavnicaPica.Properties.Resources.resources
+C:\Users\stfri\Downloads\seminarski\Kudovi\obj\Debug\Kudovi.csproj.GenerateResource.cache
+C:\Users\stfri\Downloads\seminarski\Kudovi\obj\Debug\Kudovi.csproj.CoreCompileInputs.cache
+C:\Users\stfri\Downloads\seminarski\Kudovi\obj\Debug\ProdavnicaPica.exe
+C:\Users\stfri\Downloads\seminarski\Kudovi\obj\Debug\ProdavnicaPica.pdb
+C:\Users\stfri\Downloads\seminarski\Kudovi\obj\Debug\Prodavnica.g.cs
+C:\Users\stfri\Downloads\seminarski\Kudovi\obj\Debug\Zaposleni.g.cs
+C:\Users\stfri\Downloads\seminarski\Kudovi\obj\Debug\Prodavnica.baml
+C:\Users\stfri\Downloads\seminarski\Kudovi\obj\Debug\Zaposleni.baml
